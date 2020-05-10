@@ -1,2 +1,2 @@
-* [测试学习笔记总结](studynote/test)
+* [学习笔记总结](studynote/test)
 
