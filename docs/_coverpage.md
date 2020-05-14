@@ -1,4 +1,4 @@
-<img src="C:\Users\10391\AppData\Roaming\Typora\typora-user-images\image-20200514183641880.png" alt="Logo" style="zoom:25%;" />
+<img src="http://image.luokangyuan.com/luofanzhi_logo.png" style="zoom:25%;" />
 
 
 
