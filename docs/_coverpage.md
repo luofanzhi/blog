@@ -1,4 +1,4 @@
-![logo](http://image.luokangyuan.com/2018-08-30-145924.png)
+<img src="http://image.luokangyuan.com/logo.png" alt="logo" style="zoom:20%;" />
 
 
 
